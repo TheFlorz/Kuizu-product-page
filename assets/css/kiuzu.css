@@ -60,7 +60,7 @@ border-radius: 9.882352828979492px;
 
 }
 .info2{
-    background-image: url(img2/rec.png);
+    background-image: url(assets/img2/rec.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
